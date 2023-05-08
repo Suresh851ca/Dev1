@@ -1,1 +1,7 @@
 Echo 'Hello World'
+<<<<<<< HEAD
+=======
+echo 'version updated'
+echo 'v1.2'
+echo 'Dev3 chnaged'
+>>>>>>> f705ea72a588bef8bb06ddb97b5764daf5b00946
